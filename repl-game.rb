@@ -18,3 +18,4 @@ unless g_end
     print "You suck bro"
   end
 end
+puts "Game over"
